@@ -16,8 +16,8 @@ global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '50934264892'  //creator number
+global.ownername = 'belibot' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
